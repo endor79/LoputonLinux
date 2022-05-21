@@ -42,11 +42,10 @@ Sudo yerine opendoas kullanıyor.
 ![5](https://user-images.githubusercontent.com/105305285/169656211-c8d16c6e-11f5-448c-9a0e-9dff6f2d5cd0.png)
 
 # Kullanıcılar ve şifreler
-Kullanıcı   Şifre
 
-root        loputonlinux
+root: loputonlinux
 
-loputon     loputonlinux
+loputon: loputonlinux
 
 # İndirme bağlantısı
 
