@@ -49,4 +49,4 @@ loputon: loputonlinux
 
 # İndirme bağlantısı
 
-amd64 5.4 Ukendt: 
+amd64 5.4 Ukendt: https://sourceforge.net/projects/loputonlinux/files/loputonlinux-ukendt_amd64.iso/download
