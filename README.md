@@ -6,7 +6,9 @@ Ayrıca disk kurtarma/onarma, malware/rootkit temizleme gibi işler için de kul
 
 # Eklediğim Araçlar
 1-) Otomatik MAC adresi değişimi için macchanger paketini kullanan script dosyası ekledim. (eth0 için ekledim ancak script dosyasındaki eth0 yazısını kendi kartınızın adı ile değiştirebilirsiniz)
+
 2-) Saat ayarını düzeltmek için bir script dosyası ekledim. (Istanbul için)
+
 3-) Shell-script adında bir araç ekledim. CLI paketleri varsayılan Terminal üzerinde goruntulemeyi sağlıyor.
 
 Neofetch paketine LoputonLinux'u dahil ettim.
@@ -41,7 +43,9 @@ Sudo yerine opendoas kullanıyor.
 
 # Kullanıcılar ve şifreler
 Kullanıcı   Şifre
+
 root        loputonlinux
+
 loputon     loputonlinux
 
 # İndirme bağlantısı
