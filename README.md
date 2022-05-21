@@ -50,3 +50,5 @@ loputon: loputonlinux
 # İndirme bağlantısı
 
 amd64 5.4 Ukendt: https://sourceforge.net/projects/loputonlinux/files/loputonlinux-ukendt_amd64.iso/download
+
+sha256sum: https://sourceforge.net/projects/loputonlinux/files/sha256sum.txt/download
